@@ -1,0 +1,11 @@
+{
+  "name": "notebooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bubble-bubble-gum/js-notebooks.git",
+  "author": "vlzh <vlzh@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
